@@ -1,0 +1,23 @@
+body{
+    background-color: lightblue;
+}
+
+h2{
+    margin: auto;
+    width: 50%;
+}
+
+p{
+    margin: auto;
+    width: 50%;
+}
+
+table{
+    margin: auto;
+    width: 50%;
+    border: 3px solid gray;
+}
+
+th,td{
+    border: 1px solid;
+}
